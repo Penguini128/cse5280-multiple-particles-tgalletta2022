@@ -1,1 +1,1 @@
-# CSE5280 Assignment: Penalty Functions for Floor Plan Navigation
+# CSE5280 Assignment: Multi-particle animation
