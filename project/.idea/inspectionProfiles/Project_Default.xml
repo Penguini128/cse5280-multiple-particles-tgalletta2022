@@ -1,0 +1,31 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <Languages>
+        <language minSize="62" name="Python" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="PyAttributeOutsideInitInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="exceptiongroup" />
+          <option value="tomli" />
+          <option value="Sphinx" />
+          <option value="scikit-learn" />
+          <option value="lime" />
+          <option value="scikit-image" />
+          <option value="keras-nightly" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="imbal.experimental.model.Model.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
